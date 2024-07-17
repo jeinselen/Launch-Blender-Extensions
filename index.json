@@ -6,7 +6,7 @@
       "schema_version": "1.0.0",
       "id": "Launch_Delivery_Kit",
       "name": "Launch Delivery Kit",
-      "tagline": "Quickly export selected objects to a specified directory in a variety of formats",
+      "tagline": "Quickly export selections to a specified directory in a variety of formats",
       "version": "0.0.1",
       "type": "add-on",
       "maintainer": "John Einselen <jeinselen@gmail.com>",
@@ -24,8 +24,8 @@
         "Scene"
       ],
       "archive_url": "./Launch_DeliveryKit.zip",
-      "archive_size": 69029,
-      "archive_hash": "sha256:8ee8d29b8f404f093a0bed837832eda24c9a339cf14a8125edab63b6e864947c"
+      "archive_size": 69027,
+      "archive_hash": "sha256:f60b8c74750077659235b3ddbc5bac616724a8d2500cd9c76b029c47b6df2838"
     },
     {
       "schema_version": "1.0.0",
@@ -55,7 +55,7 @@
       "schema_version": "1.0.0",
       "id": "Launch_Mesh_Kit",
       "name": "Launch Mesh Kit",
-      "tagline": "Geometry tools for copy/paste, point arrays, and more",
+      "tagline": "Geometry tools for copy/paste, point arrays, planar UV mapping, and more",
       "version": "0.0.1",
       "type": "add-on",
       "maintainer": "John Einselen <jeinselen@gmail.com>",
@@ -75,8 +75,8 @@
         "UV"
       ],
       "archive_url": "./Launch_MeshKit.zip",
-      "archive_size": 27435,
-      "archive_hash": "sha256:1ea80ed997e548c1afefabb1585984afbf2240c68fa8f4df073809522e88927f"
+      "archive_size": 27447,
+      "archive_hash": "sha256:bf4ca138788b723491565c887f8d7eebf39763475aeb60b6da262501bed3857c"
     },
     {
       "schema_version": "1.0.0",
