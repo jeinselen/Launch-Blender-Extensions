@@ -41,6 +41,7 @@ Extension documentation and bug reports — https://github.com/jeinselen/Blender
 - Project version archiving
 - Global image updating
 - Viewport shading shortcuts
+- Driver functions
 
 
 
