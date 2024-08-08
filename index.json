@@ -24,15 +24,15 @@
         "Scene"
       ],
       "archive_url": "./Launch_DeliveryKit.zip",
-      "archive_size": 69027,
-      "archive_hash": "sha256:f60b8c74750077659235b3ddbc5bac616724a8d2500cd9c76b029c47b6df2838"
+      "archive_size": 12359,
+      "archive_hash": "sha256:78da0adb9d8e754484777cdbca47505c0c3182edf851e57f0ca8c2ae30e59545"
     },
     {
       "schema_version": "1.0.0",
       "id": "Launch_Production_Kit",
       "name": "Launch Production Kit",
       "tagline": "Production shortcuts and toolsets",
-      "version": "0.0.2",
+      "version": "0.0.3",
       "type": "add-on",
       "maintainer": "John Einselen <jeinselen@gmail.com>",
       "license": [
@@ -48,8 +48,8 @@
         "Scene"
       ],
       "archive_url": "./Launch_ProductionKit.zip",
-      "archive_size": 17035,
-      "archive_hash": "sha256:89fa4150d6f585214da6997e43cab15bff0fce0de702f83fe2303c79c871e294"
+      "archive_size": 15609,
+      "archive_hash": "sha256:85298421a90daa2b54c68024c103872b54894b1839a24e59eeecbbdbae7382db"
     },
     {
       "schema_version": "1.0.0",
@@ -76,14 +76,14 @@
       ],
       "archive_url": "./Launch_MeshKit.zip",
       "archive_size": 27447,
-      "archive_hash": "sha256:bf4ca138788b723491565c887f8d7eebf39763475aeb60b6da262501bed3857c"
+      "archive_hash": "sha256:1de4f44dce67007cfec03a6be52a223ad9eff2e576e18d98333174f7478811ed"
     },
     {
       "schema_version": "1.0.0",
       "id": "Launch_Render_Kit",
       "name": "Launch Render Kit",
       "tagline": "Render variables, video compression, autosaving, proxy, and render region controls",
-      "version": "0.0.1",
+      "version": "0.0.3",
       "type": "add-on",
       "maintainer": "John Einselen <jeinselen@gmail.com>",
       "license": [
@@ -101,8 +101,8 @@
         "Scene"
       ],
       "archive_url": "./Launch_RenderKit.zip",
-      "archive_size": 30846,
-      "archive_hash": "sha256:8772add032b1076619a1cbdd17d73850f245930fdf56b7c3b7177acecf0c1276"
+      "archive_size": 34223,
+      "archive_hash": "sha256:f78191ac127e2b7b9a2a9089c89a173810abb78d4d300a985ddc9a7252b4b8cc"
     }
   ]
 }
