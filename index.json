@@ -25,14 +25,14 @@
       ],
       "archive_url": "./Launch_DeliveryKit.zip",
       "archive_size": 12359,
-      "archive_hash": "sha256:78da0adb9d8e754484777cdbca47505c0c3182edf851e57f0ca8c2ae30e59545"
+      "archive_hash": "sha256:13789c23efe6065c19341ad20bffbfea75ad88ecfe43f0017ab7e5050e52f369"
     },
     {
       "schema_version": "1.0.0",
       "id": "Launch_Production_Kit",
       "name": "Launch Production Kit",
       "tagline": "Production shortcuts and toolsets",
-      "version": "0.0.3",
+      "version": "0.0.4",
       "type": "add-on",
       "maintainer": "John Einselen <jeinselen@gmail.com>",
       "license": [
@@ -48,8 +48,8 @@
         "Scene"
       ],
       "archive_url": "./Launch_ProductionKit.zip",
-      "archive_size": 15609,
-      "archive_hash": "sha256:85298421a90daa2b54c68024c103872b54894b1839a24e59eeecbbdbae7382db"
+      "archive_size": 18023,
+      "archive_hash": "sha256:bb39c2fd5f8a92414591b542c3389e95ceaa6988b441390fccba35ab2c7b55d6"
     },
     {
       "schema_version": "1.0.0",
@@ -76,14 +76,14 @@
       ],
       "archive_url": "./Launch_MeshKit.zip",
       "archive_size": 27447,
-      "archive_hash": "sha256:1de4f44dce67007cfec03a6be52a223ad9eff2e576e18d98333174f7478811ed"
+      "archive_hash": "sha256:9ad37511a9cc8920b8722d58977b262b8ae72a6c3038c85ef0c91abbddcc246e"
     },
     {
       "schema_version": "1.0.0",
       "id": "Launch_Render_Kit",
       "name": "Launch Render Kit",
       "tagline": "Render variables, video compression, autosaving, proxy, and render region controls",
-      "version": "0.0.4",
+      "version": "0.0.5",
       "type": "add-on",
       "maintainer": "John Einselen <jeinselen@gmail.com>",
       "license": [
@@ -101,8 +101,8 @@
         "Scene"
       ],
       "archive_url": "./Launch_RenderKit.zip",
-      "archive_size": 35042,
-      "archive_hash": "sha256:80edc75d4a0163820ae637cb3b6968dad5e10f237b5d4fea8fb5a348f1649f05"
+      "archive_size": 35330,
+      "archive_hash": "sha256:c8d2bf9b550796f123bb1b81e89994d987687cd0248a7bf7abd48cbf88ac6773"
     }
   ]
 }
