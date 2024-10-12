@@ -48,8 +48,8 @@
         "Scene"
       ],
       "archive_url": "./Launch_ProductionKit.zip",
-      "archive_size": 18023,
-      "archive_hash": "sha256:bb39c2fd5f8a92414591b542c3389e95ceaa6988b441390fccba35ab2c7b55d6"
+      "archive_size": 18020,
+      "archive_hash": "sha256:609a45b33c86c3f0e40b1e29afdd29394d5048d3dbebca6bb7ce64be21ccdd1d"
     },
     {
       "schema_version": "1.0.0",
@@ -83,7 +83,7 @@
       "id": "Launch_Render_Kit",
       "name": "Launch Render Kit",
       "tagline": "Render variables, video compression, autosaving, proxy, and render region controls",
-      "version": "0.0.6",
+      "version": "0.0.7",
       "type": "add-on",
       "maintainer": "John Einselen <jeinselen@gmail.com>",
       "license": [
@@ -101,8 +101,8 @@
         "Scene"
       ],
       "archive_url": "./Launch_RenderKit.zip",
-      "archive_size": 37041,
-      "archive_hash": "sha256:3c6852166aef391302ea82109cfbda8e77cb7a01c9350a8c9eda482db55a86b7"
+      "archive_size": 39201,
+      "archive_hash": "sha256:5391e10bc85f7b0202c5aa36892252214f2199a0beca39d17225797676b37a52"
     }
   ]
 }
