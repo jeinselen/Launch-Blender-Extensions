@@ -83,7 +83,7 @@
       "id": "Launch_Render_Kit",
       "name": "Launch Render Kit",
       "tagline": "Render variables, video compression, autosaving, proxy, and render region controls",
-      "version": "0.0.8",
+      "version": "0.0.9",
       "type": "add-on",
       "maintainer": "John Einselen <jeinselen@gmail.com>",
       "license": [
@@ -101,8 +101,8 @@
         "Scene"
       ],
       "archive_url": "./Launch_RenderKit.zip",
-      "archive_size": 39420,
-      "archive_hash": "sha256:a7556b70ec80fa10403d3fc7a6e8355a9959956ad358e90a3c3d068c9596238d"
+      "archive_size": 39970,
+      "archive_hash": "sha256:c8df67cc009f270b808212715c612308a304502ee0ae5ecae581dfbc123f39c0"
     }
   ]
 }
