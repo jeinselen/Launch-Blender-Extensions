@@ -14,7 +14,7 @@
         "SPDX:GPL-3.0-or-later"
       ],
       "blender_version_min": "4.2.0",
-      "blender_version_max": "4.3.0",
+      "blender_version_max": "4.7.0",
       "website": "https://github.com/jeinselen/Blender-DeliveryKit",
       "tags": [
         "3D View",
@@ -24,8 +24,8 @@
         "Scene"
       ],
       "archive_url": "./Launch_DeliveryKit.zip",
-      "archive_size": 14083,
-      "archive_hash": "sha256:4fc218ad0e3926e9b6eefef69b6ea4d91261f26a2df14d9bd15b7c0d7f363049"
+      "archive_size": 14084,
+      "archive_hash": "sha256:b13e781f5d403646798bab6af9b468674ede86a30cc50dc93b89d3cb549dda1c"
     },
     {
       "schema_version": "1.0.0",
@@ -39,7 +39,7 @@
         "SPDX:GPL-3.0-or-later"
       ],
       "blender_version_min": "4.2.0",
-      "blender_version_max": "4.3.0",
+      "blender_version_max": "4.7.0",
       "website": "https://github.com/jeinselen/Blender-ProductionKit",
       "tags": [
         "Material",
@@ -48,8 +48,8 @@
         "Scene"
       ],
       "archive_url": "./Launch_ProductionKit.zip",
-      "archive_size": 18023,
-      "archive_hash": "sha256:a90573d15538e196bf8672b4213899e303fd2af8651b2fe7586545a405f0ccd0"
+      "archive_size": 18025,
+      "archive_hash": "sha256:d1c06c8a5b7453a40b2165331ec410434a238b2438889b11c05c25ff11dcc97e"
     },
     {
       "schema_version": "1.0.0",
@@ -63,7 +63,7 @@
         "SPDX:GPL-3.0-or-later"
       ],
       "blender_version_min": "4.2.0",
-      "blender_version_max": "4.3.0",
+      "blender_version_max": "4.7.0",
       "website": "https://github.com/jeinselen/Blender-MeshKit",
       "tags": [
         "3D View",
@@ -75,8 +75,8 @@
         "UV"
       ],
       "archive_url": "./Launch_MeshKit.zip",
-      "archive_size": 27447,
-      "archive_hash": "sha256:33d9d6e9676d5d49c5608120f1db531ab55252a0d05eaedc7e011157a5537d4e"
+      "archive_size": 27449,
+      "archive_hash": "sha256:06c27b6a4e7397c5a7050f20194a64831ce618a7e4b3cc07fc73573756af1c69"
     },
     {
       "schema_version": "1.0.0",
@@ -90,7 +90,7 @@
         "SPDX:GPL-3.0-or-later"
       ],
       "blender_version_min": "4.2.0",
-      "blender_version_max": "4.3.0",
+      "blender_version_max": "4.7.0",
       "website": "https://github.com/jeinselen/Blender-RenderKit",
       "tags": [
         "Camera",
@@ -101,8 +101,8 @@
         "Scene"
       ],
       "archive_url": "./Launch_RenderKit.zip",
-      "archive_size": 41105,
-      "archive_hash": "sha256:918828ba167b9ca71bd4e4d634d27e03b4c3d35d61b875abe8c02f6bcd0a83ec"
+      "archive_size": 41107,
+      "archive_hash": "sha256:3c67de9fd85398de6bbf0efe34aa209522c273c86496a25d93d5c3a8300f3e5a"
     }
   ]
 }
