@@ -7,7 +7,7 @@
       "id": "Launch_Delivery_Kit",
       "name": "Launch Delivery Kit",
       "tagline": "Quickly export selections to a specified directory in a variety of formats",
-      "version": "0.0.1",
+      "version": "0.0.3",
       "type": "add-on",
       "maintainer": "John Einselen <jeinselen@gmail.com>",
       "license": [
@@ -24,15 +24,15 @@
         "Scene"
       ],
       "archive_url": "./Launch_DeliveryKit.zip",
-      "archive_size": 14084,
-      "archive_hash": "sha256:b13e781f5d403646798bab6af9b468674ede86a30cc50dc93b89d3cb549dda1c"
+      "archive_size": 16479,
+      "archive_hash": "sha256:840a6d169e2a5f606d0b60027b51f23578939c117b257b6320695cb0c2595017"
     },
     {
       "schema_version": "1.0.0",
       "id": "Launch_Production_Kit",
       "name": "Launch Production Kit",
       "tagline": "Production shortcuts and toolsets",
-      "version": "0.0.4",
+      "version": "0.0.5",
       "type": "add-on",
       "maintainer": "John Einselen <jeinselen@gmail.com>",
       "license": [
@@ -48,8 +48,8 @@
         "Scene"
       ],
       "archive_url": "./Launch_ProductionKit.zip",
-      "archive_size": 18025,
-      "archive_hash": "sha256:d1c06c8a5b7453a40b2165331ec410434a238b2438889b11c05c25ff11dcc97e"
+      "archive_size": 24380,
+      "archive_hash": "sha256:efc20262e01f26380c9f4ed78163a2a76d2fffe7f3d6dc2578f168a686d514e3"
     },
     {
       "schema_version": "1.0.0",
@@ -83,7 +83,7 @@
       "id": "Launch_Render_Kit",
       "name": "Launch Render Kit",
       "tagline": "Render variables, video compression, autosaving, proxy, and render region controls",
-      "version": "0.1.1",
+      "version": "0.1.4",
       "type": "add-on",
       "maintainer": "John Einselen <jeinselen@gmail.com>",
       "license": [
@@ -101,8 +101,8 @@
         "Scene"
       ],
       "archive_url": "./Launch_RenderKit.zip",
-      "archive_size": 41107,
-      "archive_hash": "sha256:3c67de9fd85398de6bbf0efe34aa209522c273c86496a25d93d5c3a8300f3e5a"
+      "archive_size": 41670,
+      "archive_hash": "sha256:c831518b537f14eb83284f37e8fe4c3a9023b6bdec7bdeed52542b6bda1b941b"
     }
   ]
 }
