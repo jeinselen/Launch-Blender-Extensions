@@ -32,7 +32,7 @@
       "id": "Launch_Production_Kit",
       "name": "Launch Production Kit",
       "tagline": "Production shortcuts and toolsets",
-      "version": "0.0.7",
+      "version": "0.0.9",
       "type": "add-on",
       "maintainer": "John Einselen <jeinselen@gmail.com>",
       "license": [
@@ -48,8 +48,8 @@
         "Scene"
       ],
       "archive_url": "./Launch_ProductionKit.zip",
-      "archive_size": 27364,
-      "archive_hash": "sha256:3eb640ea144a19a6a1311a57badfbca53063b435a3ca714b8dd3f301e28d9c77"
+      "archive_size": 30112,
+      "archive_hash": "sha256:95a6106c63d5866f50604d704ded5eeb33ab061be2458abe16846a7136744a23"
     },
     {
       "schema_version": "1.0.0",
