@@ -25,7 +25,7 @@
       ],
       "archive_url": "./Launch_DeliveryKit.zip",
       "archive_size": 17544,
-      "archive_hash": "sha256:f1dfd42faf92d949c9b30bed44ea6abe7adc01130ef85452cd3cba511fdaee75"
+      "archive_hash": "sha256:1b46af003759fe3b7d74bd142da03da099677e275c170f544a84010bf4067582"
     },
     {
       "schema_version": "1.0.0",
@@ -49,7 +49,7 @@
       ],
       "archive_url": "./Launch_ProductionKit.zip",
       "archive_size": 27760,
-      "archive_hash": "sha256:feb5be99fad5151317f44185e8652c2b34cc1bc178d49a9409233e54a859bd47"
+      "archive_hash": "sha256:f1127c44a65ef04c8fa0931740b6f1cead5ec196062c499a2297cd6ab5ac94fe"
     },
     {
       "schema_version": "1.0.0",
@@ -76,20 +76,20 @@
       ],
       "archive_url": "./Launch_MeshKit.zip",
       "archive_size": 33887,
-      "archive_hash": "sha256:d2b3126727fc77773b1406356319d018e49592d82cd7d2e461db1e7f0d9fccd9"
+      "archive_hash": "sha256:6a4a86725ea82bc55c33b783e50d98e8d55497ba8cfc8176c05352240257e627"
     },
     {
       "schema_version": "1.0.0",
       "id": "Launch_Render_Kit",
       "name": "Launch Render Kit",
       "tagline": "Render variables, video compression, autosaving, proxy, and render region controls",
-      "version": "0.1.6",
+      "version": "0.1.8",
       "type": "add-on",
       "maintainer": "John Einselen <jeinselen@gmail.com>",
       "license": [
         "SPDX:GPL-3.0-or-later"
       ],
-      "blender_version_min": "4.2.0",
+      "blender_version_min": "4.5.0",
       "blender_version_max": "5.9.9",
       "website": "https://github.com/jeinselen/Blender-RenderKit",
       "tags": [
@@ -101,8 +101,8 @@
         "Scene"
       ],
       "archive_url": "./Launch_RenderKit.zip",
-      "archive_size": 64701,
-      "archive_hash": "sha256:ccee64bfb52dd1a3f890d4936eb4b144ca2667d3dcbbdffd9f1c4e3082efc3b3"
+      "archive_size": 67404,
+      "archive_hash": "sha256:641a44eeaa7a7dc45eb0b3cd0676c8a5399e0eca356582b893cbf1bd0e7b5345"
     }
   ]
 }
