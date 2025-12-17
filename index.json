@@ -7,7 +7,7 @@
       "id": "Launch_Delivery_Kit",
       "name": "Launch Delivery Kit",
       "tagline": "Quickly export selections to a specified directory in a variety of formats",
-      "version": "0.0.5",
+      "version": "0.0.6",
       "type": "add-on",
       "maintainer": "John Einselen <jeinselen@gmail.com>",
       "license": [
@@ -24,15 +24,15 @@
         "Scene"
       ],
       "archive_url": "./Launch_DeliveryKit.zip",
-      "archive_size": 17544,
-      "archive_hash": "sha256:1b46af003759fe3b7d74bd142da03da099677e275c170f544a84010bf4067582"
+      "archive_size": 19045,
+      "archive_hash": "sha256:43c8c0636b376892609ad97fdcf1e5e7232da2393ff82d1c8d5eaa0f7e5e3a10"
     },
     {
       "schema_version": "1.0.0",
       "id": "Launch_Production_Kit",
       "name": "Launch Production Kit",
       "tagline": "Production shortcuts and toolsets",
-      "version": "0.1.0",
+      "version": "0.1.1",
       "type": "add-on",
       "maintainer": "John Einselen <jeinselen@gmail.com>",
       "license": [
@@ -48,8 +48,8 @@
         "Scene"
       ],
       "archive_url": "./Launch_ProductionKit.zip",
-      "archive_size": 27760,
-      "archive_hash": "sha256:f1127c44a65ef04c8fa0931740b6f1cead5ec196062c499a2297cd6ab5ac94fe"
+      "archive_size": 28638,
+      "archive_hash": "sha256:b4ce88824ac91e99c5e0a8df6948ef9caa0051980bd088c3627a14dd3b38b415"
     },
     {
       "schema_version": "1.0.0",
@@ -101,8 +101,8 @@
         "Scene"
       ],
       "archive_url": "./Launch_RenderKit.zip",
-      "archive_size": 67404,
-      "archive_hash": "sha256:641a44eeaa7a7dc45eb0b3cd0676c8a5399e0eca356582b893cbf1bd0e7b5345"
+      "archive_size": 68036,
+      "archive_hash": "sha256:9dd90af06e35256f57beb5cd03bc8976d94dc7c00feff446ab69cab01697ac19"
     }
   ]
 }
