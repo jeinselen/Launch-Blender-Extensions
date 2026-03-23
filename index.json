@@ -48,8 +48,8 @@
         "Scene"
       ],
       "archive_url": "./Launch_ProductionKit.zip",
-      "archive_size": 32218,
-      "archive_hash": "sha256:5e94f8cb881b57833165d8fa12aaec199a5a76b29605a5f7245852a45a2e7514"
+      "archive_size": 32225,
+      "archive_hash": "sha256:ff15a320773921362269278523ac7f9efe1808e74aea00d28c88ace46748c4f4"
     },
     {
       "schema_version": "1.0.0",
@@ -101,8 +101,8 @@
         "Scene"
       ],
       "archive_url": "./Launch_RenderKit.zip",
-      "archive_size": 68629,
-      "archive_hash": "sha256:9d5cb3f22c11e844bae20bc6a48d2d773742153875ee0a6523f66ea79fbdb8a0"
+      "archive_size": 68633,
+      "archive_hash": "sha256:a3305bb24eff9c02643c8be3c072f0ca7486acf90f12d35b3326bca692cc4b72"
     }
   ]
 }
