@@ -25,7 +25,7 @@
       ],
       "archive_url": "./Launch_DeliveryKit.zip",
       "archive_size": 19045,
-      "archive_hash": "sha256:43c8c0636b376892609ad97fdcf1e5e7232da2393ff82d1c8d5eaa0f7e5e3a10"
+      "archive_hash": "sha256:5a19b4d5264a61a92071dc0004c8977c8ab2dbd418fa9a573b5b414e605ba7eb"
     },
     {
       "schema_version": "1.0.0",
@@ -83,7 +83,7 @@
       "id": "Launch_Render_Kit",
       "name": "Launch Render Kit",
       "tagline": "Render variables, video compression, autosaving, proxy, and render region controls",
-      "version": "0.2.0",
+      "version": "0.2.4",
       "type": "add-on",
       "maintainer": "John Einselen <jeinselen@gmail.com>",
       "license": [
@@ -92,6 +92,11 @@
       "blender_version_min": "4.5.0",
       "blender_version_max": "5.9.9",
       "website": "https://github.com/jeinselen/Blender-RenderKit",
+      "permissions": {
+        "network": "Discovery and render coordination with other Blender instances on the LAN",
+        "files": "Saving videos, incremental images, and render time logs",
+        "clipboard": "Copy and paste output variables"
+      },
       "tags": [
         "Camera",
         "Compositing",
@@ -101,8 +106,8 @@
         "Scene"
       ],
       "archive_url": "./Launch_RenderKit.zip",
-      "archive_size": 68633,
-      "archive_hash": "sha256:a3305bb24eff9c02643c8be3c072f0ca7486acf90f12d35b3326bca692cc4b72"
+      "archive_size": 97447,
+      "archive_hash": "sha256:0f1e975f1d5f84cafa385a17f889044b4335bb2023e4750eda273780a014567a"
     }
   ]
 }
