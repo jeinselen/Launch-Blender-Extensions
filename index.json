@@ -7,7 +7,7 @@
       "id": "Launch_Delivery_Kit",
       "name": "Launch Delivery Kit",
       "tagline": "Quickly export selections to a specified directory in a variety of formats",
-      "version": "0.0.6",
+      "version": "0.1.1",
       "type": "add-on",
       "maintainer": "John Einselen <jeinselen@gmail.com>",
       "license": [
@@ -18,21 +18,22 @@
       "website": "https://github.com/jeinselen/Blender-DeliveryKit",
       "tags": [
         "3D View",
+        "Import-Export",
         "Mesh",
         "Object",
         "Pipeline",
         "Scene"
       ],
       "archive_url": "./Launch_DeliveryKit.zip",
-      "archive_size": 19045,
-      "archive_hash": "sha256:5a19b4d5264a61a92071dc0004c8977c8ab2dbd418fa9a573b5b414e605ba7eb"
+      "archive_size": 29257,
+      "archive_hash": "sha256:b28379776d03c0059231201fa22124f04e3ad90b06c1daf0eb5a2380836dda76"
     },
     {
       "schema_version": "1.0.0",
       "id": "Launch_Production_Kit",
       "name": "Launch Production Kit",
       "tagline": "Production shortcuts and toolsets",
-      "version": "0.1.4",
+      "version": "0.1.5",
       "type": "add-on",
       "maintainer": "John Einselen <jeinselen@gmail.com>",
       "license": [
@@ -48,15 +49,15 @@
         "Scene"
       ],
       "archive_url": "./Launch_ProductionKit.zip",
-      "archive_size": 32225,
-      "archive_hash": "sha256:ff15a320773921362269278523ac7f9efe1808e74aea00d28c88ace46748c4f4"
+      "archive_size": 32600,
+      "archive_hash": "sha256:5c2443502b3caf4ca2812aa81d44c53b5a103ba527cd345c042127ce6f29b84b"
     },
     {
       "schema_version": "1.0.0",
       "id": "Launch_Mesh_Kit",
       "name": "Launch Mesh Kit",
       "tagline": "Geometry tools for copy/paste, point arrays, planar UV mapping, and more",
-      "version": "0.1.0",
+      "version": "0.1.1",
       "type": "add-on",
       "maintainer": "John Einselen <jeinselen@gmail.com>",
       "license": [
@@ -75,15 +76,15 @@
         "UV"
       ],
       "archive_url": "./Launch_MeshKit.zip",
-      "archive_size": 33887,
-      "archive_hash": "sha256:6a4a86725ea82bc55c33b783e50d98e8d55497ba8cfc8176c05352240257e627"
+      "archive_size": 34634,
+      "archive_hash": "sha256:fdbafda2710addb5d144a9995afe6d812b8f677aa3a8eb2e5b782bc652cf4e38"
     },
     {
       "schema_version": "1.0.0",
       "id": "Launch_Render_Kit",
       "name": "Launch Render Kit",
       "tagline": "Render variables, video compression, autosaving, proxy, and render region controls",
-      "version": "0.2.4",
+      "version": "0.2.5",
       "type": "add-on",
       "maintainer": "John Einselen <jeinselen@gmail.com>",
       "license": [
@@ -106,8 +107,8 @@
         "Scene"
       ],
       "archive_url": "./Launch_RenderKit.zip",
-      "archive_size": 97447,
-      "archive_hash": "sha256:0f1e975f1d5f84cafa385a17f889044b4335bb2023e4750eda273780a014567a"
+      "archive_size": 231268,
+      "archive_hash": "sha256:7dc221e7be3a527f8373a445315365119fe569b8709744fd61ed4d40e4dacd33"
     }
   ]
 }
