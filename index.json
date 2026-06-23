@@ -26,14 +26,14 @@
       ],
       "archive_url": "./Launch_DeliveryKit.zip",
       "archive_size": 29257,
-      "archive_hash": "sha256:b28379776d03c0059231201fa22124f04e3ad90b06c1daf0eb5a2380836dda76"
+      "archive_hash": "sha256:dffbf9ca8fc613e959bafa014d6c15c06785e23af4b4a231700f6f78673195a4"
     },
     {
       "schema_version": "1.0.0",
       "id": "Launch_Production_Kit",
       "name": "Launch Production Kit",
       "tagline": "Production shortcuts and toolsets",
-      "version": "0.1.5",
+      "version": "0.1.6",
       "type": "add-on",
       "maintainer": "John Einselen <jeinselen@gmail.com>",
       "license": [
@@ -49,15 +49,15 @@
         "Scene"
       ],
       "archive_url": "./Launch_ProductionKit.zip",
-      "archive_size": 32600,
-      "archive_hash": "sha256:5c2443502b3caf4ca2812aa81d44c53b5a103ba527cd345c042127ce6f29b84b"
+      "archive_size": 33539,
+      "archive_hash": "sha256:bb60f5f15cbbcd11c1594c1146724a281320583efd6806f6eaf9821f11479876"
     },
     {
       "schema_version": "1.0.0",
       "id": "Launch_Mesh_Kit",
       "name": "Launch Mesh Kit",
       "tagline": "Geometry tools for copy/paste, point arrays, planar UV mapping, and more",
-      "version": "0.1.1",
+      "version": "0.2.0",
       "type": "add-on",
       "maintainer": "John Einselen <jeinselen@gmail.com>",
       "license": [
@@ -76,8 +76,8 @@
         "UV"
       ],
       "archive_url": "./Launch_MeshKit.zip",
-      "archive_size": 34634,
-      "archive_hash": "sha256:fdbafda2710addb5d144a9995afe6d812b8f677aa3a8eb2e5b782bc652cf4e38"
+      "archive_size": 38418,
+      "archive_hash": "sha256:7b5e46e1e124a221d299a82ab34d1fb6cfb1536942e7e620d866e642e90637d9"
     },
     {
       "schema_version": "1.0.0",
@@ -108,7 +108,7 @@
       ],
       "archive_url": "./Launch_RenderKit.zip",
       "archive_size": 231268,
-      "archive_hash": "sha256:7dc221e7be3a527f8373a445315365119fe569b8709744fd61ed4d40e4dacd33"
+      "archive_hash": "sha256:66016de4ab0b413e45fbde0366d9598da9ba7d87dd5559f5ca9b3bde46150ce3"
     }
   ]
 }
