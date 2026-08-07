@@ -7,13 +7,13 @@
       "id": "Launch_Delivery_Kit",
       "name": "Launch Delivery Kit",
       "tagline": "Quickly export selections to a specified directory in a variety of formats",
-      "version": "0.1.1",
+      "version": "0.1.2",
       "type": "add-on",
       "maintainer": "John Einselen <jeinselen@gmail.com>",
       "license": [
         "SPDX:GPL-3.0-or-later"
       ],
-      "blender_version_min": "4.2.0",
+      "blender_version_min": "4.5.0",
       "blender_version_max": "5.9.9",
       "website": "https://github.com/jeinselen/Blender-DeliveryKit",
       "tags": [
@@ -25,21 +25,21 @@
         "Scene"
       ],
       "archive_url": "./Launch_DeliveryKit.zip",
-      "archive_size": 29257,
-      "archive_hash": "sha256:dffbf9ca8fc613e959bafa014d6c15c06785e23af4b4a231700f6f78673195a4"
+      "archive_size": 29901,
+      "archive_hash": "sha256:05c5647c805bf46078d00c8c0ffc358002a6370ce34942e1c6bda3559f340490"
     },
     {
       "schema_version": "1.0.0",
       "id": "Launch_Production_Kit",
       "name": "Launch Production Kit",
       "tagline": "Production shortcuts and toolsets",
-      "version": "0.1.6",
+      "version": "0.1.8",
       "type": "add-on",
       "maintainer": "John Einselen <jeinselen@gmail.com>",
       "license": [
         "SPDX:GPL-3.0-or-later"
       ],
-      "blender_version_min": "4.2.0",
+      "blender_version_min": "4.4.0",
       "blender_version_max": "5.9.9",
       "website": "https://github.com/jeinselen/Blender-ProductionKit",
       "tags": [
@@ -49,15 +49,15 @@
         "Scene"
       ],
       "archive_url": "./Launch_ProductionKit.zip",
-      "archive_size": 33539,
-      "archive_hash": "sha256:bb60f5f15cbbcd11c1594c1146724a281320583efd6806f6eaf9821f11479876"
+      "archive_size": 35459,
+      "archive_hash": "sha256:55b92cf0b36015d79fd1e78b2645a51901291e0b2d7af4014722f34aa31d634f"
     },
     {
       "schema_version": "1.0.0",
       "id": "Launch_Mesh_Kit",
       "name": "Launch Mesh Kit",
       "tagline": "Geometry tools for copy/paste, point arrays, planar UV mapping, and more",
-      "version": "0.2.0",
+      "version": "0.2.2",
       "type": "add-on",
       "maintainer": "John Einselen <jeinselen@gmail.com>",
       "license": [
@@ -76,15 +76,15 @@
         "UV"
       ],
       "archive_url": "./Launch_MeshKit.zip",
-      "archive_size": 38418,
-      "archive_hash": "sha256:7b5e46e1e124a221d299a82ab34d1fb6cfb1536942e7e620d866e642e90637d9"
+      "archive_size": 39926,
+      "archive_hash": "sha256:a0a201bd12809b0ed5c8deee498175492e81faead9964452d8501168bb71fb5a"
     },
     {
       "schema_version": "1.0.0",
       "id": "Launch_Render_Kit",
       "name": "Launch Render Kit",
       "tagline": "Render variables, video compression, autosaving, proxy, and render region controls",
-      "version": "0.2.5",
+      "version": "0.2.7",
       "type": "add-on",
       "maintainer": "John Einselen <jeinselen@gmail.com>",
       "license": [
@@ -107,8 +107,8 @@
         "Scene"
       ],
       "archive_url": "./Launch_RenderKit.zip",
-      "archive_size": 231268,
-      "archive_hash": "sha256:66016de4ab0b413e45fbde0366d9598da9ba7d87dd5559f5ca9b3bde46150ce3"
+      "archive_size": 99209,
+      "archive_hash": "sha256:70747b89ac4e8e2018e56d4422b701981b3f8ce54d3d2348904a5358f5c9c71e"
     }
   ]
 }
