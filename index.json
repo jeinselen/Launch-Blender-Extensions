@@ -6,7 +6,7 @@
       "schema_version": "1.0.0",
       "id": "Launch_Delivery_Kit",
       "name": "Launch Delivery Kit",
-      "tagline": "Quickly export selections to a specified directory in a variety of formats",
+      "tagline": "Quickly export selections to a folder in a variety of formats",
       "version": "0.1.2",
       "type": "add-on",
       "maintainer": "John Einselen <jeinselen@gmail.com>",
@@ -14,8 +14,10 @@
         "SPDX:GPL-3.0-or-later"
       ],
       "blender_version_min": "4.5.0",
-      "blender_version_max": "5.9.9",
       "website": "https://github.com/jeinselen/Blender-DeliveryKit",
+      "permissions": {
+        "files": "Accessing directory structure and exporting files"
+      },
       "tags": [
         "3D View",
         "Import-Export",
@@ -25,8 +27,8 @@
         "Scene"
       ],
       "archive_url": "./Launch_DeliveryKit.zip",
-      "archive_size": 29901,
-      "archive_hash": "sha256:05c5647c805bf46078d00c8c0ffc358002a6370ce34942e1c6bda3559f340490"
+      "archive_size": 41743,
+      "archive_hash": "sha256:c35e61c3c55e18e2158c906ec1833fd39e78c512ba59473a4f4c45a564c85497"
     },
     {
       "schema_version": "1.0.0",
@@ -40,7 +42,6 @@
         "SPDX:GPL-3.0-or-later"
       ],
       "blender_version_min": "4.5.0",
-      "blender_version_max": "5.9.9",
       "website": "https://github.com/jeinselen/Blender-RenderKit",
       "permissions": {
         "network": "Discovery and render coordination with other Blender instances on the LAN",
@@ -52,8 +53,8 @@
         "Scene"
       ],
       "archive_url": "./Launch_RenderRemote.zip",
-      "archive_size": 55033,
-      "archive_hash": "sha256:4fd38796f26fe8b1bb7b402181f6b3d2d3fe6076bf5d038bcfb79a5c4255e881"
+      "archive_size": 66993,
+      "archive_hash": "sha256:e0309376502ba61e2126ae1df0e2fc94865637225afa6280f0bcfb740df39e12"
     },
     {
       "schema_version": "1.0.0",
@@ -66,9 +67,15 @@
       "license": [
         "SPDX:GPL-3.0-or-later"
       ],
-      "blender_version_min": "4.4.0",
-      "blender_version_max": "5.9.9",
+      "blender_version_min": "4.5.0",
       "website": "https://github.com/jeinselen/Blender-ProductionKit",
+      "copyright": [
+        "2001 Robert Penner"
+      ],
+      "permissions": {
+        "files": "Saving colour palettes and versioned project files",
+        "clipboard": "Copy and paste colour swatches and driver expressions"
+      },
       "tags": [
         "Material",
         "Pipeline",
@@ -76,23 +83,25 @@
         "Scene"
       ],
       "archive_url": "./Launch_ProductionKit.zip",
-      "archive_size": 35459,
-      "archive_hash": "sha256:55b92cf0b36015d79fd1e78b2645a51901291e0b2d7af4014722f34aa31d634f"
+      "archive_size": 47436,
+      "archive_hash": "sha256:c268b60a712f9429fe02298a3127c4e0e04a4ef13d7e2b7e603e722b93632364"
     },
     {
       "schema_version": "1.0.0",
       "id": "Launch_Mesh_Kit",
       "name": "Launch Mesh Kit",
-      "tagline": "Geometry tools for copy/paste, point arrays, planar UV mapping, and more",
+      "tagline": "Geometry tools for copy/paste, arrays, UV mapping and more",
       "version": "0.2.2",
       "type": "add-on",
       "maintainer": "John Einselen <jeinselen@gmail.com>",
       "license": [
         "SPDX:GPL-3.0-or-later"
       ],
-      "blender_version_min": "4.2.0",
-      "blender_version_max": "5.9.9",
+      "blender_version_min": "4.5.0",
       "website": "https://github.com/jeinselen/Blender-MeshKit",
+      "permissions": {
+        "files": "Importing point array data from CSV, NPY, and VF files"
+      },
       "tags": [
         "3D View",
         "Modeling",
@@ -103,14 +112,14 @@
         "UV"
       ],
       "archive_url": "./Launch_MeshKit.zip",
-      "archive_size": 39926,
-      "archive_hash": "sha256:a0a201bd12809b0ed5c8deee498175492e81faead9964452d8501168bb71fb5a"
+      "archive_size": 51659,
+      "archive_hash": "sha256:f6ebf32d85e53f9fa406031057a451995c1a29a4abf371e700dfb74740ce6615"
     },
     {
       "schema_version": "1.0.0",
       "id": "Launch_Render_Kit",
       "name": "Launch Render Kit",
-      "tagline": "Render variables, video compression, autosaving, proxy, and render region controls",
+      "tagline": "Render variables, autosave, video, batch, proxy, region tools",
       "version": "0.3.0",
       "type": "add-on",
       "maintainer": "John Einselen <jeinselen@gmail.com>",
@@ -118,7 +127,6 @@
         "SPDX:GPL-3.0-or-later"
       ],
       "blender_version_min": "4.5.0",
-      "blender_version_max": "5.9.9",
       "website": "https://github.com/jeinselen/Blender-RenderKit",
       "permissions": {
         "network": "Sending Pushover notifications when renders complete",
@@ -134,8 +142,8 @@
         "Scene"
       ],
       "archive_url": "./Launch_RenderKit.zip",
-      "archive_size": 47987,
-      "archive_hash": "sha256:933deb29ae61d39030ef02b2d4cafaae0042a07ed55f5c1101562955e570b482"
+      "archive_size": 60159,
+      "archive_hash": "sha256:ae401522bbca62bca560c9c1b9b9f3458714a54f341a197d224d5a814871eb32"
     }
   ]
 }
