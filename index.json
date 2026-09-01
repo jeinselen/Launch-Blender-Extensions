@@ -30,6 +30,33 @@
     },
     {
       "schema_version": "1.0.0",
+      "id": "Launch_Render_Remote",
+      "name": "Launch Render Remote",
+      "tagline": "Distributed rendering on Blender instances across the local network",
+      "version": "0.3.0",
+      "type": "add-on",
+      "maintainer": "John Einselen <jeinselen@gmail.com>",
+      "license": [
+        "SPDX:GPL-3.0-or-later"
+      ],
+      "blender_version_min": "4.5.0",
+      "blender_version_max": "5.9.9",
+      "website": "https://github.com/jeinselen/Blender-RenderKit",
+      "permissions": {
+        "network": "Discovery and render coordination with other Blender instances on the LAN",
+        "files": "Caching synced project files and rendered output"
+      },
+      "tags": [
+        "Pipeline",
+        "Render",
+        "Scene"
+      ],
+      "archive_url": "./Launch_RenderRemote.zip",
+      "archive_size": 55033,
+      "archive_hash": "sha256:4fd38796f26fe8b1bb7b402181f6b3d2d3fe6076bf5d038bcfb79a5c4255e881"
+    },
+    {
+      "schema_version": "1.0.0",
       "id": "Launch_Production_Kit",
       "name": "Launch Production Kit",
       "tagline": "Production shortcuts and toolsets",
@@ -84,7 +111,7 @@
       "id": "Launch_Render_Kit",
       "name": "Launch Render Kit",
       "tagline": "Render variables, video compression, autosaving, proxy, and render region controls",
-      "version": "0.2.7",
+      "version": "0.3.0",
       "type": "add-on",
       "maintainer": "John Einselen <jeinselen@gmail.com>",
       "license": [
@@ -94,7 +121,7 @@
       "blender_version_max": "5.9.9",
       "website": "https://github.com/jeinselen/Blender-RenderKit",
       "permissions": {
-        "network": "Discovery and render coordination with other Blender instances on the LAN",
+        "network": "Sending Pushover notifications when renders complete",
         "files": "Saving videos, incremental images, and render time logs",
         "clipboard": "Copy and paste output variables"
       },
@@ -107,8 +134,8 @@
         "Scene"
       ],
       "archive_url": "./Launch_RenderKit.zip",
-      "archive_size": 99209,
-      "archive_hash": "sha256:70747b89ac4e8e2018e56d4422b701981b3f8ce54d3d2348904a5358f5c9c71e"
+      "archive_size": 47987,
+      "archive_hash": "sha256:933deb29ae61d39030ef02b2d4cafaae0042a07ed55f5c1101562955e570b482"
     }
   ]
 }
