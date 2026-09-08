@@ -30,22 +30,28 @@ These latter two methods will not connect to the centralised repository here on 
 
 
 
-## Available Toolkits:
+# Available Toolkits:
 
-### Launch Production Kit — General Utilities
+## Launch Production Kit — General Utilities
 
 ![3D render of an abstract P-shaped logo made up of blocks with some rounded corners in soft blues, text in the image reads Production Kit from the Mograph team at Launch by NTT DATA](images/ProductionKit.jpg)
 
 Extension documentation and bug reports — https://github.com/jeinselen/Blender-ProductionKit
 
 - Audio Waveforms
-  - Renders audio clips from the Sequencer as waveforms in the general Timeline view
+  - Renders audio clips from the Sequencer as waveforms in the Dope Sheet and Timeline views
+- BPM Overlay
+  - Draws custom beat and measure markers in the Dope Sheet and Timeline views
 - Color Palette
-  - Creates a color palette in the 3D Viewport sidebar using plain text storage for easy transport
+  - Creates a color palette in the 3D Viewport sidebar using external plain text storage for easy multi-project usage and transport
+- Cycle Transforms
+  - Swaps position, rotation, and scale transforms between two or more selected objects
 - Driver Functions
   - Adds custom value drivers and a GUI for setting them up, including timeline values based on markers, random, wiggle, and curve-at-time functions
 - Project Versioning
   - Quick shortcuts for saving numbered project files in an archive location
+- Transfer to Scene
+  - Adds move, copy, and link options to the Outliner context menu
 - Update Images
   - Update all images from the node editor sidebar, automatically change settings based on file name patterns, and change file sources with text based find and replace
 - Vertex Location Keyframes
@@ -55,7 +61,7 @@ Extension documentation and bug reports — https://github.com/jeinselen/Blender
 
 
 
-### Launch Mesh Kit — Geometry Editing
+## Launch Mesh Kit — Geometry Editing
 
 ![3D render of an abstract M-shaped logo made up of blocks with some rounded corners in soft purple, text in the image reads Mesh Kit from the Mograph team at Launch by NTT DATA](images/MeshKit.jpg)
 
@@ -63,10 +69,14 @@ Extension documentation and bug reports — https://github.com/jeinselen/Blender
 
 - Copy Paste
   - Stores geometry in a project-specific clipboard for easy copy/paste between mesh or curve objects
+- Edit Attribute
+  - Create and edit attributes for mesh and curve objects, including value gradients between specified positions
+- Mesh Align
+  - Shift object geometry relative to origin based on bounding box
 - Planar UV
   - Projects UV coordinates from a specified axis using numerical scale inputs for repeatability
 - Point Array
-  - Generates vertex point arrays in various patterns, including cubic grid, golden spiral, poisson packing, and volume field data
+  - Generates vertex point arrays in various patterns, including cubic grid, golden spiral, poisson packing
 - Radial Offset
   - Offsets vertices using radial coordinates, useful for increasing radial scales by a specified distance
 - Segment Mesh
@@ -76,7 +86,7 @@ Extension documentation and bug reports — https://github.com/jeinselen/Blender
 
 
 
-### Launch Render Kit — Rendering Management
+## Launch Render Kit — Rendering Management
 
 ![3D render of an abstract R-shaped logo made up of blocks with some rounded corners in soft reds and oranges, text in the image reads Render Kit from the Mograph team at Launch by NTT DATA](images/RenderKit.jpg)
 
@@ -93,10 +103,10 @@ Extension documentation and bug reports — https://github.com/jeinselen/Blender
   - Automatically saves every render in a specified folder using custom name and formatting
 - Autosave Videos
   - Automatically processes image sequences using FFmpeg after rendering completes
-- Batch Rendering
+- Render Batch
   - One-click rendering of collections, items, cameras, or texture folders to individual images or sequences
-- Render Nodes
-  - One-click baking of material nodes to texture files
+- Render Node
+  - One-click baking of specific material nodes to texture files
 - Render Proxy
   - Shortcut for triggering a proxy render with resolution and engine settings
 - Render Region
@@ -104,26 +114,30 @@ Extension documentation and bug reports — https://github.com/jeinselen/Blender
 - Render Data
   - Tracks the total time spent rendering a project and displays estimated time remaining during animation sequence rendering
 - Render Notifications
-  - Sends an email, push notification, or announces render statistics at the completion of renders over a given time limit
+  - Sends a push notification or local voice announcement (MacOS only) when renders complete
+
+## Launch Render Remote
+
+This is an _experimental_ feature for rendering over the local network and is not included as part of the official Render Kit due to inherent security concerns. Blender does not support encrypted storage of security keys (everything is stored as plain text) and the codebase is generated by non-experts in networking and security. Please use extreme caution. Extension documentation — https://github.com/jeinselen/Blender-RenderRemote
 
 
 
-### Launch Delivery Kit — Quick Exports
+## Launch Delivery Kit — Quick Exports
 
 ![3D render of an abstract D-shaped logo made up of blocks with some rounded corners in soft yellow-oranges and purple, text in the image reads Delivery Kit from the Mograph team at Launch by NTT DATA](images/DeliveryKit.jpg)
 
 Extension documentation and bug reports — https://github.com/jeinselen/Blender-DeliveryKit
 
 - Unity 3D (FBX)
-- Unreal Engine (FBX)
 - ThreeJS (GLB)
+- Godot (GLTF)
 - Element3D (OBJ)
 - Xcode (USDZ)
 - 3D Printing (STL)
-- Unity 3D Volume Field (VF)
-- 3D Texture Strip (EXR)
 - Item Position (CSV)
 - Item Vertices (CSV)
+- SplineMaker (JSON)
+- NURBS translation (SVG)
 
 
 
