@@ -61,7 +61,7 @@
       "id": "Launch_Production_Kit",
       "name": "Launch Production Kit",
       "tagline": "Production shortcuts and toolsets",
-      "version": "0.1.8",
+      "version": "0.2.2",
       "type": "add-on",
       "maintainer": "John Einselen <jeinselen@gmail.com>",
       "license": [
@@ -83,15 +83,15 @@
         "Scene"
       ],
       "archive_url": "./Launch_ProductionKit.zip",
-      "archive_size": 49081,
-      "archive_hash": "sha256:09888e172a9b2a40de00e3dda03282467c5f61fb9842cc2ccfdf91412f247475"
+      "archive_size": 54861,
+      "archive_hash": "sha256:bf683a9c227ac635e68046de7fd0525864eb30497cdee1ab2fe2db98b8f27bf2"
     },
     {
       "schema_version": "1.0.0",
       "id": "Launch_Mesh_Kit",
       "name": "Launch Mesh Kit",
       "tagline": "Geometry tools for copy/paste, arrays, UV mapping and more",
-      "version": "0.2.2",
+      "version": "0.3.1",
       "type": "add-on",
       "maintainer": "John Einselen <jeinselen@gmail.com>",
       "license": [
@@ -99,9 +99,6 @@
       ],
       "blender_version_min": "4.5.0",
       "website": "https://github.com/jeinselen/Blender-MeshKit",
-      "permissions": {
-        "files": "Importing point array data from CSV, NPY, and VF files"
-      },
       "tags": [
         "3D View",
         "Modeling",
@@ -111,16 +108,19 @@
         "Scene",
         "UV"
       ],
+      "python_versions": [
+        "3"
+      ],
       "archive_url": "./Launch_MeshKit.zip",
-      "archive_size": 51659,
-      "archive_hash": "sha256:f6ebf32d85e53f9fa406031057a451995c1a29a4abf371e700dfb74740ce6615"
+      "archive_size": 134592,
+      "archive_hash": "sha256:75026844f3c3b884ff2c6ac1a4c6b95f242ed52286c27488a2096ff1488b8be8"
     },
     {
       "schema_version": "1.0.0",
       "id": "Launch_Render_Kit",
       "name": "Launch Render Kit",
       "tagline": "Render variables, autosave, video, batch, proxy, region tools",
-      "version": "0.3.0",
+      "version": "0.3.4",
       "type": "add-on",
       "maintainer": "John Einselen <jeinselen@gmail.com>",
       "license": [
@@ -142,8 +142,8 @@
         "Scene"
       ],
       "archive_url": "./Launch_RenderKit.zip",
-      "archive_size": 60159,
-      "archive_hash": "sha256:ae401522bbca62bca560c9c1b9b9f3458714a54f341a197d224d5a814871eb32"
+      "archive_size": 71179,
+      "archive_hash": "sha256:7ada16f3fd59c0dfc0bcef2c575a0c3bbe7ebb0b7d26a727a54cb7bb84cbbc2b"
     }
   ]
 }
